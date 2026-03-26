@@ -1,0 +1,16 @@
+# Ambientes Python e dependências
+venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Ambientes Node (Frontend Vite)
+node_modules/
+dist/
+.env.local
+.DS_Store
+
+# IDEs e editores de código
+.vscode/
+.idea/

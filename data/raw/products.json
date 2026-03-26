@@ -1,0 +1,242 @@
+[
+  {
+    "product_id": "PROD-0001",
+    "product_name": "Smartphone Galaxy S24",
+    "category": "Eletrônicos",
+    "price": 3476.82,
+    "stock_quantity": 383,
+    "created_date": "2023-01-28"
+  },
+  {
+    "product_id": "PROD-0002",
+    "product_name": "Notebook Lenovo IdeaPad",
+    "category": "Eletrônicos",
+    "price": 4448.06,
+    "stock_quantity": 340,
+    "created_date": "2023-02-20"
+  },
+  {
+    "product_id": "PROD-0003",
+    "product_name": "Tablet Samsung Tab S9",
+    "category": "Eletrônicos",
+    "price": 2644.24,
+    "stock_quantity": 382,
+    "created_date": "2023-06-23"
+  },
+  {
+    "product_id": "PROD-0004",
+    "product_name": "Fone Bluetooth JBL",
+    "category": "Eletrônicos",
+    "price": 317.93,
+    "stock_quantity": 65,
+    "created_date": "2023-05-08"
+  },
+  {
+    "product_id": "PROD-0005",
+    "product_name": "Smart TV 55\" LG",
+    "category": "Eletrônicos",
+    "price": 3001.68,
+    "stock_quantity": 284,
+    "created_date": "2023-08-18"
+  },
+  {
+    "product_id": "PROD-0006",
+    "product_name": "Smartwatch Apple Watch",
+    "category": "Eletrônicos",
+    "price": 2319.16,
+    "stock_quantity": 103,
+    "created_date": "2023-05-23"
+  },
+  {
+    "product_id": "PROD-0007",
+    "product_name": "Câmera GoPro Hero 12",
+    "category": "Eletrônicos",
+    "price": 2778.08,
+    "stock_quantity": 457,
+    "created_date": "2023-02-08"
+  },
+  {
+    "product_id": "PROD-0008",
+    "product_name": "Camiseta Polo Ralph Lauren",
+    "category": "Moda",
+    "price": 247.06,
+    "stock_quantity": 451,
+    "created_date": "2023-10-09"
+  },
+  {
+    "product_id": "PROD-0009",
+    "product_name": "Calça Jeans Levi's",
+    "category": "Moda",
+    "price": 367.74,
+    "stock_quantity": 343,
+    "created_date": "2023-10-04"
+  },
+  {
+    "product_id": "PROD-0010",
+    "product_name": "Tênis Nike Air Max",
+    "category": "Moda",
+    "price": 746.94,
+    "stock_quantity": 57,
+    "created_date": "2023-05-02"
+  },
+  {
+    "product_id": "PROD-0011",
+    "product_name": "Bolsa Michael Kors",
+    "category": "Moda",
+    "price": 1212.31,
+    "stock_quantity": 258,
+    "created_date": "2023-09-04"
+  },
+  {
+    "product_id": "PROD-0012",
+    "product_name": "Jaqueta North Face",
+    "category": "Moda",
+    "price": 848.38,
+    "stock_quantity": 215,
+    "created_date": "2023-01-31"
+  },
+  {
+    "product_id": "PROD-0013",
+    "product_name": "Óculos Ray-Ban Aviador",
+    "category": "Moda",
+    "price": 559.66,
+    "stock_quantity": 11,
+    "created_date": "2023-07-19"
+  },
+  {
+    "product_id": "PROD-0014",
+    "product_name": "Sofá Retrátil 3 Lugares",
+    "category": "Casa & Decoração",
+    "price": 2381.65,
+    "stock_quantity": 411,
+    "created_date": "2023-08-21"
+  },
+  {
+    "product_id": "PROD-0015",
+    "product_name": "Mesa de Jantar 6 Lugares",
+    "category": "Casa & Decoração",
+    "price": 1817.44,
+    "stock_quantity": 366,
+    "created_date": "2023-10-12"
+  },
+  {
+    "product_id": "PROD-0016",
+    "product_name": "Luminária de Piso Design",
+    "category": "Casa & Decoração",
+    "price": 464.47,
+    "stock_quantity": 259,
+    "created_date": "2023-03-21"
+  },
+  {
+    "product_id": "PROD-0017",
+    "product_name": "Jogo de Cama Queen 400 Fios",
+    "category": "Casa & Decoração",
+    "price": 328.2,
+    "stock_quantity": 121,
+    "created_date": "2023-01-30"
+  },
+  {
+    "product_id": "PROD-0018",
+    "product_name": "Panela Elétrica de Arroz",
+    "category": "Casa & Decoração",
+    "price": 203.07,
+    "stock_quantity": 287,
+    "created_date": "2023-02-01"
+  },
+  {
+    "product_id": "PROD-0019",
+    "product_name": "Aspirador Robô iRobot",
+    "category": "Casa & Decoração",
+    "price": 2308.06,
+    "stock_quantity": 39,
+    "created_date": "2023-01-26"
+  },
+  {
+    "product_id": "PROD-0020",
+    "product_name": "Clean Code - Robert C. Martin",
+    "category": "Livros",
+    "price": 91.41,
+    "stock_quantity": 267,
+    "created_date": "2023-09-29"
+  },
+  {
+    "product_id": "PROD-0021",
+    "product_name": "O Poder do Hábito",
+    "category": "Livros",
+    "price": 46.48,
+    "stock_quantity": 270,
+    "created_date": "2023-02-11"
+  },
+  {
+    "product_id": "PROD-0022",
+    "product_name": "Sapiens - Yuval Harari",
+    "category": "Livros",
+    "price": 64.11,
+    "stock_quantity": 45,
+    "created_date": "2023-11-01"
+  },
+  {
+    "product_id": "PROD-0023",
+    "product_name": "Python para Data Science",
+    "category": "Livros",
+    "price": 73.0,
+    "stock_quantity": 451,
+    "created_date": "2023-05-01"
+  },
+  {
+    "product_id": "PROD-0024",
+    "product_name": "Pai Rico Pai Pobre",
+    "category": "Livros",
+    "price": 53.84,
+    "stock_quantity": 492,
+    "created_date": "2023-10-19"
+  },
+  {
+    "product_id": "PROD-0025",
+    "product_name": "Bicicleta Mountain Bike Caloi",
+    "category": "Esportes",
+    "price": 2087.39,
+    "stock_quantity": 314,
+    "created_date": "2023-01-21"
+  },
+  {
+    "product_id": "PROD-0026",
+    "product_name": "Esteira Elétrica Movement",
+    "category": "Esportes",
+    "price": 3582.54,
+    "stock_quantity": 224,
+    "created_date": "2023-12-03"
+  },
+  {
+    "product_id": "PROD-0027",
+    "product_name": "Kit Halteres 20kg",
+    "category": "Esportes",
+    "price": 304.92,
+    "stock_quantity": 277,
+    "created_date": "2023-06-11"
+  },
+  {
+    "product_id": "PROD-0028",
+    "product_name": "Barraca Camping 4 Pessoas",
+    "category": "Esportes",
+    "price": 489.01,
+    "stock_quantity": 114,
+    "created_date": "2023-12-09"
+  },
+  {
+    "product_id": "PROD-0029",
+    "product_name": "Raquete de Tênis Wilson",
+    "category": "Esportes",
+    "price": 625.84,
+    "stock_quantity": 132,
+    "created_date": "2023-05-16"
+  },
+  {
+    "product_id": "PROD-0030",
+    "product_name": "Bola de Futebol Adidas",
+    "category": "Esportes",
+    "price": 146.78,
+    "stock_quantity": 353,
+    "created_date": "2023-11-27"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "customer_id": "CUST-0001",
+    "customer_name": "Patricia Souza",
+    "email": "patricia.souza@gmail.com",
+    "city": "Florianópolis",
+    "state": "SC",
+    "registration_date": "2024-07-17"
+  },
+  {
+    "customer_id": "CUST-0002",
+    "customer_name": "Pedro Ferreira",
+    "email": "pedro.ferreira@hotmail.com",
+    "city": "Florianópolis",
+    "state": "SC",
+    "registration_date": "2023-07-29"
+  },
+  {
+    "customer_id": "CUST-0003",
+    "customer_name": "Tiago Gomes",
+    "email": "tiago.gomes@gmail.com",
+    "city": "Manaus",
+    "state": "AM",
+    "registration_date": "2025-05-14"
+  },
+  {
+    "customer_id": "CUST-0004",
+    "customer_name": "Carla Silva",
+    "email": "carla.silva@gmail.com",
+    "city": "Curitiba",
+    "state": "PR",
+    "registration_date": "2024-04-21"
+  },
+  {
+    "customer_id": "CUST-0005",
+    "customer_name": "Giovana Dias",
+    "email": "giovana.dias@gmail.com",
+    "city": "Recife",
+    "state": "PE",
+    "registration_date": "2024-02-12"
+  },
+  {
+    "customer_id": "CUST-0006",
+    "customer_name": "Wagner Gomes",
+    "email": "wagner.gomes@yahoo.com.br",
+    "city": "Curitiba",
+    "state": "PR",
+    "registration_date": "2025-07-08"
+  },
+  {
+    "customer_id": "CUST-0007",
+    "customer_name": "Leonardo Rodrigues",
+    "email": "leonardo.rodrigues@gmail.com",
+    "city": "Campinas",
+    "state": "SP",
+    "registration_date": "2023-11-23"
+  },
+  {
+    "customer_id": "CUST-0008",
+    "customer_name": "Valentina Barbosa",
+    "email": "valentina.barbosa@outlook.com",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "registration_date": "2023-11-15"
+  },
+  {
+    "customer_id": "CUST-0009",
+    "customer_name": "Nelson Nascimento",
+    "email": "nelson.nascimento@gmail.com",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "registration_date": "2025-02-17"
+  },
+  {
+    "customer_id": "CUST-0010",
+    "customer_name": "Gabriel Araújo",
+    "email": "gabriel.araújo@outlook.com",
+    "city": "Manaus",
+    "state": "AM",
+    "registration_date": "2024-06-25"
+  },
+  {
+    "customer_id": "CUST-0011",
+    "customer_name": "Carla Ribeiro",
+    "email": "carla.ribeiro@uol.com.br",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "registration_date": "2025-02-14"
+  },
+  {
+    "customer_id": "CUST-0012",
+    "customer_name": "Fernanda Gomes",
+    "email": "fernanda.gomes@outlook.com",
+    "city": "Vitória",
+    "state": "ES",
+    "registration_date": "2025-01-10"
+  },
+  {
+    "customer_id": "CUST-0013",
+    "customer_name": "Karina Costa",
+    "email": "karina.costa@gmail.com",
+    "city": "São Paulo",
+    "state": "SP",
+    "registration_date": "2024-04-11"
+  },
+  {
+    "customer_id": "CUST-0014",
+    "customer_name": "Caio Almeida",
+    "email": "caio.almeida@gmail.com",
+    "city": "Vitória",
+    "state": "ES",
+    "registration_date": "2024-04-21"
+  },
+  {
+    "customer_id": "CUST-0015",
+    "customer_name": "Gabriel Melo",
+    "email": "gabriel.melo@outlook.com",
+    "city": "Fortaleza",
+    "state": "CE",
+    "registration_date": "2025-01-17"
+  },
+  {
+    "customer_id": "CUST-0016",
+    "customer_name": "Karen Araújo",
+    "email": "karen.araújo@outlook.com",
+    "city": "Curitiba",
+    "state": "PR",
+    "registration_date": "2024-06-30"
+  },
+  {
+    "customer_id": "CUST-0017",
+    "customer_name": "Valentina Oliveira",
+    "email": "valentina.oliveira@uol.com.br",
+    "city": "Goiânia",
+    "state": "GO",
+    "registration_date": "2023-12-17"
+  },
+  {
+    "customer_id": "CUST-0018",
+    "customer_name": "Isabela Ferreira",
+    "email": "isabela.ferreira@hotmail.com",
+    "city": "Fortaleza",
+    "state": "CE",
+    "registration_date": "2025-02-16"
+  },
+  {
+    "customer_id": "CUST-0019",
+    "customer_name": "Rafael Gomes",
+    "email": "rafael.gomes@hotmail.com",
+    "city": "Goiânia",
+    "state": "GO",
+    "registration_date": "2024-10-26"
+  },
+  {
+    "customer_id": "CUST-0020",
+    "customer_name": "Caio Santos",
+    "email": "caio.santos@hotmail.com",
+    "city": "Vitória",
+    "state": "ES",
+    "registration_date": "2023-03-07"
+  },
+  {
+    "customer_id": "CUST-0021",
+    "customer_name": "Ursula Melo",
+    "email": "ursula.melo@outlook.com",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "registration_date": "2024-03-08"
+  },
+  {
+    "customer_id": "CUST-0022",
+    "customer_name": "Karina Nascimento",
+    "email": "karina.nascimento@hotmail.com",
+    "city": "Goiânia",
+    "state": "GO",
+    "registration_date": "2025-10-19"
+  },
+  {
+    "customer_id": "CUST-0023",
+    "customer_name": "Zeca Ribeiro",
+    "email": "zeca.ribeiro@hotmail.com",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "registration_date": "2023-10-13"
+  },
+  {
+    "customer_id": "CUST-0024",
+    "customer_name": "Pedro Gomes",
+    "email": "pedro.gomes@uol.com.br",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "registration_date": "2025-05-27"
+  },
+  {
+    "customer_id": "CUST-0025",
+    "customer_name": "Leonardo Melo",
+    "email": "leonardo.melo@outlook.com",
+    "city": "Curitiba",
+    "state": "PR",
+    "registration_date": "2023-10-11"
+  },
+  {
+    "customer_id": "CUST-0026",
+    "customer_name": "Giovana Martins",
+    "email": "giovana.martins@gmail.com",
+    "city": "Campinas",
+    "state": "SP",
+    "registration_date": "2023-04-07"
+  },
+  {
+    "customer_id": "CUST-0027",
+    "customer_name": "Helena Lima",
+    "email": "helena.lima@hotmail.com",
+    "city": "Campinas",
+    "state": "SP",
+    "registration_date": "2025-05-14"
+  },
+  {
+    "customer_id": "CUST-0028",
+    "customer_name": "Monica Oliveira",
+    "email": "monica.oliveira@yahoo.com.br",
+    "city": "Brasília",
+    "state": "DF",
+    "registration_date": "2025-08-16"
+  },
+  {
+    "customer_id": "CUST-0029",
+    "customer_name": "Henrique Rodrigues",
+    "email": "henrique.rodrigues@uol.com.br",
+    "city": "Vitória",
+    "state": "ES",
+    "registration_date": "2023-01-24"
+  },
+  {
+    "customer_id": "CUST-0030",
+    "customer_name": "Tiago Souza",
+    "email": "tiago.souza@uol.com.br",
+    "city": "Campinas",
+    "state": "SP",
+    "registration_date": "2024-06-30"
+  },
+  {
+    "customer_id": "CUST-0031",
+    "customer_name": "Caio Nascimento",
+    "email": "caio.nascimento@gmail.com",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "registration_date": "2025-06-09"
+  },
+  {
+    "customer_id": "CUST-0032",
+    "customer_name": "Karen Ribeiro",
+    "email": "karen.ribeiro@gmail.com",
+    "city": "Florianópolis",
+    "state": "SC",
+    "registration_date": "2024-06-23"
+  },
+  {
+    "customer_id": "CUST-0033",
+    "customer_name": "Giovana Pereira",
+    "email": "giovana.pereira@uol.com.br",
+    "city": "Belém",
+    "state": "PA",
+    "registration_date": "2023-08-06"
+  },
+  {
+    "customer_id": "CUST-0034",
+    "customer_name": "Patricia Almeida",
+    "email": "patricia.almeida@uol.com.br",
+    "city": "Manaus",
+    "state": "AM",
+    "registration_date": "2024-02-12"
+  },
+  {
+    "customer_id": "CUST-0035",
+    "customer_name": "Julia Araújo",
+    "email": "julia.araújo@hotmail.com",
+    "city": "Recife",
+    "state": "PE",
+    "registration_date": "2025-12-22"
+  },
+  {
+    "customer_id": "CUST-0036",
+    "customer_name": "Ana Dias",
+    "email": "ana.dias@outlook.com",
+    "city": "Fortaleza",
+    "state": "CE",
+    "registration_date": "2023-02-09"
+  },
+  {
+    "customer_id": "CUST-0037",
+    "customer_name": "Helena Araújo",
+    "email": "helena.araújo@outlook.com",
+    "city": "Curitiba",
+    "state": "PR",
+    "registration_date": "2023-04-29"
+  },
+  {
+    "customer_id": "CUST-0038",
+    "customer_name": "Pedro Rocha",
+    "email": "pedro.rocha@gmail.com",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "registration_date": "2025-09-22"
+  },
+  {
+    "customer_id": "CUST-0039",
+    "customer_name": "Eduardo Gomes",
+    "email": "eduardo.gomes@hotmail.com",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "registration_date": "2025-08-31"
+  },
+  {
+    "customer_id": "CUST-0040",
+    "customer_name": "João Pereira",
+    "email": "joão.pereira@outlook.com",
+    "city": "Recife",
+    "state": "PE",
+    "registration_date": "2025-05-16"
+  },
+  {
+    "customer_id": "CUST-0041",
+    "customer_name": "Nelson Gomes",
+    "email": "nelson.gomes@hotmail.com",
+    "city": "Florianópolis",
+    "state": "SC",
+    "registration_date": "2024-09-30"
+  },
+  {
+    "customer_id": "CUST-0042",
+    "customer_name": "Zeca Araújo",
+    "email": "zeca.araújo@yahoo.com.br",
+    "city": "Belém",
+    "state": "PA",
+    "registration_date": "2025-11-25"
+  },
+  {
+    "customer_id": "CUST-0043",
+    "customer_name": "Camila Souza",
+    "email": "camila.souza@hotmail.com",
+    "city": "Curitiba",
+    "state": "PR",
+    "registration_date": "2023-05-12"
+  },
+  {
+    "customer_id": "CUST-0044",
+    "customer_name": "Vinicius Silva",
+    "email": "vinicius.silva@uol.com.br",
+    "city": "Recife",
+    "state": "PE",
+    "registration_date": "2024-04-16"
+  },
+  {
+    "customer_id": "CUST-0045",
+    "customer_name": "Leonardo Ferreira",
+    "email": "leonardo.ferreira@gmail.com",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "registration_date": "2023-05-01"
+  },
+  {
+    "customer_id": "CUST-0046",
+    "customer_name": "Olivia Oliveira",
+    "email": "olivia.oliveira@gmail.com",
+    "city": "Vitória",
+    "state": "ES",
+    "registration_date": "2024-11-07"
+  },
+  {
+    "customer_id": "CUST-0047",
+    "customer_name": "Eduardo Carvalho",
+    "email": "eduardo.carvalho@hotmail.com",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "registration_date": "2025-09-21"
+  },
+  {
+    "customer_id": "CUST-0048",
+    "customer_name": "Nelson Gomes",
+    "email": "nelson.gomes93@uol.com.br",
+    "city": "Manaus",
+    "state": "AM",
+    "registration_date": "2025-08-26"
+  },
+  {
+    "customer_id": "CUST-0049",
+    "customer_name": "Pedro Martins",
+    "email": "pedro.martins@yahoo.com.br",
+    "city": "Curitiba",
+    "state": "PR",
+    "registration_date": "2023-07-13"
+  },
+  {
+    "customer_id": "CUST-0050",
+    "customer_name": "Gabriel Barbosa",
+    "email": "gabriel.barbosa@outlook.com",
+    "city": "Brasília",
+    "state": "DF",
+    "registration_date": "2025-04-21"
+  }
+]

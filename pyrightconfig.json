@@ -1,0 +1,15 @@
+{
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Windows",
+  "pythonPath": "C:\\Users\\victor\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "typeCheckingMode": "basic",
+  "reportMissingImports": "warning",
+  "reportMissingModuleSource": false,
+  "reportOptionalMemberAccess": false,
+  "reportGeneralTypeIssues": false,
+  "reportArgumentType": false,
+  "include": ["api", "config", "utils", "data"],
+  "extraPaths": [
+    "C:\\Users\\victor\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages"
+  ]
+}

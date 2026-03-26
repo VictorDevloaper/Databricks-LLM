@@ -1,0 +1,23 @@
+# ============================================================
+# Data Pipeline + RAG com Databricks
+# ============================================================
+# Nota: A maioria dessas dependências já está disponível
+# no Databricks Runtime. Este arquivo é para referência
+# e para ambientes de desenvolvimento local.
+# ============================================================
+
+# Core
+pyspark>=3.5.0
+delta-spark>=3.0.0
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Databricks SDK (para Foundation Model APIs e Vector Search)
+databricks-sdk>=0.20.0
+databricks-vectorsearch>=0.22.0
+mlflow>=2.10.0
+
+# Utilities
+python-dotenv>=1.0.0
