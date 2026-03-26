@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Google Gemini" />
 </p>
 
-![Dashboard e Inteligência Artificial](./assets/dashboard.png)
+![Data Engineering & AI Architecture](https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80)
 
 Um sistema completo de ERP inteligente alimentado por **Databricks Data Intelligence Platform** e **Google Gemini 3.0 Flash**. 
 

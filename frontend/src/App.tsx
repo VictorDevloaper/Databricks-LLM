@@ -359,7 +359,14 @@ export default function App() {
                             <PlotlyChart
                               data={[{
                                 x: msg.chart.x,
-                                y: msg.chart.y,
+                                y: msg.chart.y.map((val: any) => {
+                                  if (typeof val === 'string') {
+                                    // Remove pontos milhares e troca vírgula por ponto para parse correto do JS
+                                    const clean = val.replace(/\./g, '').replace(',', '.').replace(/R\$\s?/g, '');
+                                    return parseFloat(clean) || 0;
+                                  }
+                                  return val;
+                                }),
                                 type: msg.chart.type || 'bar',
                                 marker: { color: ['#3b82f6', '#6366f1', '#8b5cf6', '#a855f7', '#d946ef'].slice(0, msg.chart.x?.length) },
                                 hovertemplate: (msg.chart.title?.toLowerCase().includes("volume") || msg.chart.title?.toLowerCase().includes("unidade") || msg.chart.title?.toLowerCase().includes("quantidade")) 
