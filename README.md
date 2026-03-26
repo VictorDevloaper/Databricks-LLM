@@ -1,6 +1,15 @@
 # 🚀 Databricks ERP AI & Data Dashboard
 
-![Banner do Projeto](./assets/banner.png) <!-- Recomendo criar uma pasta assets e salvar o print longo do dashboard + chat aqui -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Google Gemini" />
+</p>
+
+![Dashboard e Inteligência Artificial](./assets/dashboard.png)
 
 Um sistema completo de ERP inteligente alimentado por **Databricks Data Intelligence Platform** e **Google Gemini 3.0 Flash**. 
 
