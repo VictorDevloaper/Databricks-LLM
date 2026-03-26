@@ -92,11 +92,11 @@ A aplicação abrirá no endereço local `http://localhost:5173`. Aproveite sua 
 
 ## 📸 Demonstração do Projeto
 
-**(Sua Imagem 1 Aqui)**
-> *Recomendação: `![Visão Geral do Dashboard - KPI + Gráficos](./assets/dash.png)`*
+**Visão Oficial Gerencial**
+![Visão Geral do Dashboard - KPI + Gráficos](./assets/dashboard.png)
 
-**(Sua Imagem 2 Aqui)**
-> *Recomendação: `![RAG Híbrido, Botão CSV e Tooltips Formatos em R$](./assets/chat_rag.png)`*
+**RAG Híbrido, Botão CSV e Tooltips**
+![RAG Híbrido, Botão CSV e Tooltips Formatos em R$](./assets/chat.png)
 
 ---
 <div align="center">
